@@ -1,0 +1,135 @@
+.header {
+    background-image: url(img/header.jpg);
+}
+
+
+.header .navbar {
+    background-color: transparent !important;
+}
+
+.tituloh1 {
+    font-family: 'Magnat Text';
+    color: #e9d167;
+}
+
+.subh2 {
+    font-family: 'Magnat Text';
+    color: #E1D082;
+}
+
+.h1 {
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 700;
+
+    font-style: italic;
+
+    color: #3C4651;
+}
+
+
+.card-title {
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 700;
+
+    font-style: normal;
+
+
+}
+
+.card-subtitle {
+    font-family: p22-mackinac-pro, serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+.card-text {
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+
+}
+
+.list-group-item {
+    background-color: #327ea1;
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+}
+
+#visitas {
+
+    background-color: #c9ada7;
+}
+
+.card {
+    background-color: transparent !important;
+    border: transparent !important;
+    ;
+}
+
+.artcol {
+    color: #3C4651;
+}
+
+.artistas {
+    color: #7D8EA2;
+}
+
+#multimedia {
+    background-color: #4a4e69;
+}
+
+#actividades {
+    background-color: #f2e9e4;
+}
+
+
+.multi {
+    color: #D1C4BA;
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+}
+
+.galeriatext {
+    color: #ffffff;
+
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+}
+
+.galeriatitu {
+    color: #ffffff;
+
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 700;
+
+    font-style: normal;
+}
+
+#galeria{
+    background-color: #242a31;
+}
+
+.galeriah1{
+    font-family: p22-mackinac-pro, serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+color: #e9d167;
+}
